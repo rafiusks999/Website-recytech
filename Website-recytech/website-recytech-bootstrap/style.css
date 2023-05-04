@@ -1,0 +1,21 @@
+.bg-image {
+    background-image: url(Imgs/fundo.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+  .bg-colormade {
+    background-color: aliceblue;
+  }
+
+  .logo-img { 
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    border: 2px solid darkgreen;
+    margin-right: 1em;
+  }
+  .bg-corcriada {
+    background-color: rgb(20, 31, 20);
+  }
